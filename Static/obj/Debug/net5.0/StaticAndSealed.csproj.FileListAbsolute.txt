@@ -1,0 +1,31 @@
+D:\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.exe
+D:\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.deps.json
+D:\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.runtimeconfig.json
+D:\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.dll
+D:\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\ref\StaticAndSealed.dll
+D:\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.pdb
+D:\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.dll
+D:\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\ref\StaticAndSealed.dll
+D:\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.pdb
+D:\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.genruntimeconfig.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.deps.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.runtimeconfig.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.runtimeconfig.dev.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\ref\StaticAndSealed.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.csproj.AssemblyReference.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.AssemblyInfoInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.AssemblyInfo.cs
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\ref\StaticAndSealed.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.genruntimeconfig.cache

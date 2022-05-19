@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce50444e-760b-4b15-9fa3-6cea7c8bfc11": {
+      "ProjectGuid": "ce50444e-760b-4b15-9fa3-6cea7c8bfc11",
+      "DisplayName": "Abstraction",
+      "ColorIndex": 0
+    },
+    "3fd3624e-c57c-4f31-a4d4-60e9a027bbff": {
+      "ProjectGuid": "3fd3624e-c57c-4f31-a4d4-60e9a027bbff",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 1
+    },
+    "d13bc932-cb5d-41e2-8535-af088a893bde": {
+      "ProjectGuid": "d13bc932-cb5d-41e2-8535-af088a893bde",
+      "DisplayName": "Collections",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "48d91813-c999-469d-9c92-c5662f0b6b21": {
+      "ProjectGuid": "48d91813-c999-469d-9c92-c5662f0b6b21",
+      "DisplayName": "ControllerBasics",
+      "ColorIndex": 3
+    },
+    "1eff2a7f-acea-40ed-838e-ec9b9382c77a": {
+      "ProjectGuid": "1eff2a7f-acea-40ed-838e-ec9b9382c77a",
+      "DisplayName": "StaticAndSealed",
+      "ColorIndex": 4
+    },
+    "1a2c70f6-30d2-4006-a86a-6282ab2ae58a": {
+      "ProjectGuid": "1a2c70f6-30d2-4006-a86a-6282ab2ae58a",
+      "DisplayName": "DOT NET BASICS",
+      "ColorIndex": 5
+    },
+    "2f4f0fa4-9fef-4cc5-8b89-e1204559a78e": {
+      "ProjectGuid": "2f4f0fa4-9fef-4cc5-8b89-e1204559a78e",
+      "DisplayName": "Exception",
+      "ColorIndex": 6
+    },
+    "59b44088-df1a-4dfd-8da2-22d0be78a071": {
+      "ProjectGuid": "59b44088-df1a-4dfd-8da2-22d0be78a071",
+      "DisplayName": "Generic",
+      "ColorIndex": 7
+    },
+    "da41d062-897c-4abc-8425-6f8abd9a47af": {
+      "ProjectGuid": "da41d062-897c-4abc-8425-6f8abd9a47af",
+      "DisplayName": "Polymorphism",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

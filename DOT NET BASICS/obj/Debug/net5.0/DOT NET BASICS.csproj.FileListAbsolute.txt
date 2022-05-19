@@ -1,0 +1,31 @@
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.exe
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.deps.json
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.runtimeconfig.json
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.dll
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\ref\DOT NET BASICS.dll
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.pdb
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.dll
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\ref\DOT NET BASICS.dll
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.pdb
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.genruntimeconfig.cache
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.csproj.AssemblyReference.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.deps.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.runtimeconfig.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.runtimeconfig.dev.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\ref\DOT NET BASICS.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\bin\Debug\net5.0\DOT NET BASICS.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.AssemblyInfoInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.AssemblyInfo.cs
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\ref\DOT NET BASICS.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\DOT NET BASICS\obj\Debug\net5.0\DOT NET BASICS.genruntimeconfig.cache

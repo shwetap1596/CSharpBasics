@@ -1,0 +1,16 @@
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Linq.exe
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Linq.deps.json
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Linq.runtimeconfig.json
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Linq.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Linq.dll
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\ref\Linq.dll
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Linq.pdb
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Linq.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Linq.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Linq.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Linq.dll
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\ref\Linq.dll
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Linq.pdb
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Linq.genruntimeconfig.cache
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Linq.csproj.AssemblyReference.cache

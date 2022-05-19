@@ -1,0 +1,31 @@
+D:\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.exe
+D:\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+D:\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+D:\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.dll
+D:\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+D:\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+D:\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.dll
+D:\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+D:\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+D:\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.csproj.AssemblyReference.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.exe
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.deps.json
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.runtimeconfig.json
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.dll
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\ref\Threading.dll
+D:\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.pdb
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.dll
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\ref\Threading.dll
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.pdb
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.genruntimeconfig.cache
+D:\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.deps.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.runtimeconfig.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\ref\Threading.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\bin\Debug\net5.0\Threading.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\ref\Threading.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Linq\obj\Debug\net5.0\Threading.genruntimeconfig.cache

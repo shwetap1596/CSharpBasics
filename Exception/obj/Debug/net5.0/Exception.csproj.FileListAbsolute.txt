@@ -1,0 +1,30 @@
+D:\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.exe
+D:\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.deps.json
+D:\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.runtimeconfig.json
+D:\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.dll
+D:\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\ref\Exception.dll
+D:\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.pdb
+D:\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.dll
+D:\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\ref\Exception.dll
+D:\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.pdb
+D:\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.genruntimeconfig.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.deps.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.runtimeconfig.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.runtimeconfig.dev.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\ref\Exception.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\bin\Debug\net5.0\Exception.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.AssemblyInfoInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.AssemblyInfo.cs
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\ref\Exception.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Exception\obj\Debug\net5.0\Exception.genruntimeconfig.cache

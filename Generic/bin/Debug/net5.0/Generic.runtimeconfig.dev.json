@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\shwetap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\shwetap\\.nuget\\packages"
+    ]
+  }
+}

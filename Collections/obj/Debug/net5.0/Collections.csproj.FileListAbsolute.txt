@@ -1,0 +1,31 @@
+D:\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.exe
+D:\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.deps.json
+D:\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+D:\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.dll
+D:\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\ref\Collections.dll
+D:\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.pdb
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.dll
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\ref\Collections.dll
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.pdb
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache
+D:\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.csproj.AssemblyReference.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.deps.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\ref\Collections.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\bin\Debug\net5.0\Collections.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\ref\Collections.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache

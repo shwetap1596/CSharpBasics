@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DOT NET BASICS/1.0.0": {
+        "runtime": {
+          "DOT NET BASICS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DOT NET BASICS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

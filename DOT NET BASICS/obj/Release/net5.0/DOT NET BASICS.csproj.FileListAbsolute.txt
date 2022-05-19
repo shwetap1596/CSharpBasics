@@ -1,0 +1,15 @@
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Release\net5.0\DOT NET BASICS.exe
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Release\net5.0\DOT NET BASICS.deps.json
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Release\net5.0\DOT NET BASICS.runtimeconfig.json
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Release\net5.0\DOT NET BASICS.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Release\net5.0\DOT NET BASICS.dll
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Release\net5.0\ref\DOT NET BASICS.dll
+D:\Practices\DOT NET BASICS\DOT NET BASICS\bin\Release\net5.0\DOT NET BASICS.pdb
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Release\net5.0\DOT NET BASICS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Release\net5.0\DOT NET BASICS.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Release\net5.0\DOT NET BASICS.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Release\net5.0\DOT NET BASICS.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Release\net5.0\DOT NET BASICS.dll
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Release\net5.0\ref\DOT NET BASICS.dll
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Release\net5.0\DOT NET BASICS.pdb
+D:\Practices\DOT NET BASICS\DOT NET BASICS\obj\Release\net5.0\DOT NET BASICS.genruntimeconfig.cache

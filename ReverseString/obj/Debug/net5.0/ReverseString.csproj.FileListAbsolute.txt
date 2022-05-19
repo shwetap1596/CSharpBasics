@@ -1,0 +1,31 @@
+D:\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.exe
+D:\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.deps.json
+D:\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.json
+D:\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.dll
+D:\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ref\ReverseString.dll
+D:\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.pdb
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.csproj.AssemblyReference.cache
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.dll
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ref\ReverseString.dll
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.pdb
+D:\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.genruntimeconfig.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.deps.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.dev.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ref\ReverseString.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\bin\Debug\net5.0\ReverseString.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfo.cs
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ref\ReverseString.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ReverseString\obj\Debug\net5.0\ReverseString.genruntimeconfig.cache

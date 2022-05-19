@@ -1,0 +1,30 @@
+D:\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.exe
+D:\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+D:\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+D:\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+D:\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.dll
+D:\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+D:\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+D:\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+D:\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+D:\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.dll
+D:\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+D:\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+D:\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
