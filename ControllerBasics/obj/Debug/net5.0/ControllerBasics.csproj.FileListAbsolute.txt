@@ -20,6 +20,7 @@ C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASI
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ControllerBasics\bin\Debug\net5.0\ControllerBasics.dll
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ControllerBasics\bin\Debug\net5.0\ref\ControllerBasics.dll
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ControllerBasics\bin\Debug\net5.0\ControllerBasics.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ControllerBasics\obj\Debug\net5.0\ControllerBasics.csproj.AssemblyReference.cache
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ControllerBasics\obj\Debug\net5.0\ControllerBasics.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ControllerBasics\obj\Debug\net5.0\ControllerBasics.AssemblyInfoInputs.cache
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ControllerBasics\obj\Debug\net5.0\ControllerBasics.AssemblyInfo.cs

@@ -20,7 +20,6 @@ C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASI
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Generic\bin\Debug\net5.0\Generic.dll
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Generic\bin\Debug\net5.0\ref\Generic.dll
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Generic\bin\Debug\net5.0\Generic.pdb
-C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Generic\obj\Debug\net5.0\Generic.csproj.AssemblyReference.cache
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Generic\obj\Debug\net5.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Generic\obj\Debug\net5.0\Generic.AssemblyInfoInputs.cache
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Generic\obj\Debug\net5.0\Generic.AssemblyInfo.cs

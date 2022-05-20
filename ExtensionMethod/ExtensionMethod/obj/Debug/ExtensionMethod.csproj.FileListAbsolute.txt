@@ -1,0 +1,12 @@
+E:\Dot_Net_Assignments\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+E:\Dot_Net_Assignments\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+E:\Dot_Net_Assignments\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+E:\Dot_Net_Assignments\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+E:\Dot_Net_Assignments\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
+C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.AssemblyReference.cache

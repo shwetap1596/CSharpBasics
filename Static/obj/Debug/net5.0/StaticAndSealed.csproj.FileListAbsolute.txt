@@ -20,7 +20,6 @@ C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASI
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.dll
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\ref\StaticAndSealed.dll
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\bin\Debug\net5.0\StaticAndSealed.pdb
-C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.csproj.AssemblyReference.cache
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.AssemblyInfoInputs.cache
 C:\Users\shwetap\OneDrive - TechBlocks Inc\Local Disk (D)\Practices\DOT NET BASICS\Static\obj\Debug\net5.0\StaticAndSealed.AssemblyInfo.cs
